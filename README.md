@@ -1,2 +1,2 @@
 # Python-Projects
-Здесь я собираю учебные проекты на Питоне.
+Tracking here my educational projects learning Python.
